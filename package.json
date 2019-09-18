@@ -33,6 +33,6 @@
     "vinyl": "^2.2.0"
   },
   "devDependencies": {
-    "standard": "^12.0.1"
+    "standard": "^14.3.1"
   }
 }
